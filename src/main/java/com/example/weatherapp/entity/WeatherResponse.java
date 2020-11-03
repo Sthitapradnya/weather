@@ -1,4 +1,4 @@
-package com.example.weatherapp.Entity;
+package com.example.weatherapp.entity;
 
 import lombok.Data;
 

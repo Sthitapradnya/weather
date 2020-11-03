@@ -1,4 +1,4 @@
-package com.example.weatherapp.Entity;
+package com.example.weatherapp.entity;
 
 public class DailyDetail {
     private long id;
