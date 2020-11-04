@@ -1,0 +1,6 @@
+server:
+ port: 8080
+weather-app:
+ api:
+  key: ada66dd4217339b16ebbf417e3731aa1
+  url: http://api.openweathermap.org/data/2.5/forecast
